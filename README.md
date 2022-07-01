@@ -21,3 +21,8 @@ efetuando uma previsão para o próximo dia dos casos confirmados acumulado.
     pip install pandas
    
     pip install openpyxl
+
+## 3. Executar no terminal ou Compilar em uma IDE
+    analise_calculo_numerico.py
+    
+Após a execução do código será criado na pasta local do arquivo duas tabelas .xlsx, contendo os coeficientes de previsões para o 21º dia e da média movel do periodo de 7 dias dos casos analisados.
